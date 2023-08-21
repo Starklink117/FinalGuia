@@ -1,0 +1,35 @@
+.list-group-item {
+    background-color: transparent; /* Cambia este color al que desees */
+    
+}
+
+.linknav {
+    color: white;
+    text-decoration: none;}
+
+#logo {
+    width: 100px; /* Cambia el valor al tamaño deseado */
+    height: auto; /* Para mantener la proporción de la imagen */
+}
+
+.menus {
+    display: flex; /* Activa el modelo de caja flexible */
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente (opcional) */
+    background-color: green;
+    width: 100%;
+}
+
+.menui{
+    background-color:rgb(25, 25, 25);
+}
+
+.list-group {
+    background-color: transparent;
+}
+
+
+.pie{
+    background-color: brown;
+    color: white;
+}
